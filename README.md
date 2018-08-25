@@ -1,5 +1,6 @@
 # Spring Boot Project with Travis CI/CD pipeline through GitLab.
-https://gitlab.com/FlorianDe/travis-spring-boot/badges/master/build.svg
+[![pipeline status](https://gitlab.com/FlorianDe/travis-spring-boot/badges/master/pipeline.svg)](https://gitlab.com/FlorianDe/travis-spring-boot/commits/master)
+[![coverage report](https://gitlab.com/FlorianDe/travis-spring-boot/badges/master/coverage.svg)](https://gitlab.com/FlorianDe/travis-spring-boot/commits/master)
 
 ## External Setup Steps
 git update-index --chmod=+x gradlew
